@@ -1,5 +1,5 @@
 # Android_Maps_app
-Na początku mozna wybrac 1 z 4 styli mapy.
+
 Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie, w razie niepoprawnego wpisania zwraca komunikat,
 "I dont know this place".
 Po kliknięciu na marker wyskakuje okienko, w ktorym mogą Panstwo zapisac to miejsce(Name and location)
@@ -35,4 +35,11 @@ See: <a href="https://developers.google.com/maps/documentation/android/start">Go
 App screen shots
 ================
 
+Na początku mozna wybrac 1 z 4 styli mapy.
 ![img](style.png) 
+
+
+
+
+Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie
+![img](poland.png) 
