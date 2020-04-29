@@ -12,7 +12,7 @@ w razie gdy nie ma zadnej zapisanej lokalizacji, wypisuje, ze nie ma takich miej
 Android_Maps_app
 ================
 
-Aplikacja pozwala na wybor stylu mapy,  wyszukiwanie swojej lokalizacji oraz innych miejsc i zapisu 
+Aplikacja pozwala na wybor styla mapy,  wyszukiwanie swojej lokalizacji oraz innych miejsc i zapisu 
 
 
 Developed By
@@ -28,5 +28,11 @@ Very Important
 You need to replace the key below with your own key. The example key below will not be accepted because it is not linked to the certificate which you will use to sign this application.
 
 See: <a href="https://developers.google.com/maps/documentation/android/start">Google Developers</a> for instructions on how to get your own key.
+
+
+
+
+App screen shots
+================
 
 
