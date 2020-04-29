@@ -2,8 +2,8 @@
 
 Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie, w razie niepoprawnego wpisania zwraca komunikat,
 "I dont know this place".
-Po kliknięciu na marker wyskakuje okienko, w ktorym mogą Panstwo zapisac to miejsce(Name and location)
-Po kliknięciu na ikonkę MY_LOCATION pokazuje aktualną lokalizację telefona na mapie.
+
+
 Po kliknięciu na obrazek w formie serdca, wypisuje aplikacja wszystkie zapisane lokalizacji (Name and location),
 w razie gdy nie ma zadnej zapisanej lokalizacji, wypisuje, ze nie ma takich miejsc.
 
@@ -36,10 +36,26 @@ App screen shots
 ================
 
 Na początku mozna wybrac 1 z 4 styli mapy.
-![img](style.png) 
+>![img](style.png) 
 
 
 
 
 Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie
-![img](poland.png) 
+>![img](poland.png) 
+
+
+
+Na mapie znajduje sie zoom 
+>![img](zoom.png) 
+
+
+Po kliknięciu na marker wyskakuje okienko, w ktorym mogą Panstwo zapisac to miejsce(Name and location)
+>![img](dialog.png) 
+
+
+Po kliknięciu na ikonkę MY_LOCATION pokazuje aktualną lokalizację telefona na mapie.
+>![img](loc.png) 
+
+
+
