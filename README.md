@@ -35,4 +35,4 @@ See: <a href="https://developers.google.com/maps/documentation/android/start">Go
 App screen shots
 ================
 
-![img](Android_Maps_app/style.png) 
+![img](style.png) 
