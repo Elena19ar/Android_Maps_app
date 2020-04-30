@@ -1,14 +1,4 @@
-# Android_Maps_app
-
-
-
-
-Po kliknięciu na obrazek w formie serdca, wypisuje aplikacja wszystkie zapisane lokalizacji (Name and location),
-w razie gdy nie ma zadnej zapisanej lokalizacji, wypisuje, ze nie ma takich miejsc.
-
-
-
-Android_Maps_app
+#Android_Maps_app
 ================
 
 Aplikacja pozwala na wybor styla mapy,  wyszukiwanie swojej lokalizacji oraz innych miejsc i zapisu 
@@ -40,7 +30,7 @@ Na początku mozna wybrac 1 z 4 styli mapy.
 
 
 
-Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie
+Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie, w razie niepoprawnego wpisania zwraca komunikat,  "I dont know this place".
 >![img](poland.png) 
 
 
@@ -61,7 +51,9 @@ część kodu (wyszukiwanie lokalizacji)
 
 
 
-w razie niepoprawnego wpisania zwraca komunikat,  "I dont know this place".
+
+Po kliknięciu na obrazek w formie serdca, wypisuje aplikacja wszystkie zapisane lokalizacji (Name and location),
+w razie gdy nie ma zadnej zapisanej lokalizacji, wypisuje, ze nie ma takich miejsc.
 >![img](noplaces.png) 
 
 
