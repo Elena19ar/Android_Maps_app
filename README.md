@@ -1,7 +1,7 @@
 #Android_Maps_app
 ================
 
-Aplikacja pozwala na wybor styla mapy,  wyszukiwanie swojej lokalizacji oraz innych miejsc i zapisu 
+Interfejs aplikacja pozwala na wybor styla mapy, wyszukiwanie swojej lokalizacji oraz innych miejsc i zapisu. Aplikacja również posiada zoom.
 
 
 Developed By
