@@ -1,7 +1,6 @@
 # Android_Maps_app
 
-Aplikacja posiadająca wyszukiwarkę, ktora znachodzi kraj badz miasto na mapie, w razie niepoprawnego wpisania zwraca komunikat,
-"I dont know this place".
+
 
 
 Po kliknięciu na obrazek w formie serdca, wypisuje aplikacja wszystkie zapisane lokalizacji (Name and location),
@@ -57,5 +56,10 @@ Po kliknięciu na marker wyskakuje okienko, w ktorym mogą Panstwo zapisac to mi
 Po kliknięciu na ikonkę MY_LOCATION pokazuje aktualną lokalizację telefona na mapie.
 >![img](loc.png) 
 
+
+
+
+w razie niepoprawnego wpisania zwraca komunikat,  "I dont know this place".
+>![img](noplaces.png) 
 
 
