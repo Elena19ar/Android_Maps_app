@@ -55,6 +55,8 @@ Po kliknięciu na marker wyskakuje okienko, w ktorym mogą Panstwo zapisac to mi
 
 Po kliknięciu na ikonkę MY_LOCATION pokazuje aktualną lokalizację telefona na mapie.
 >![img](loc.png) 
+część kodu (wyszukiwanie lokalizacji)
+>![img](code.png) 
 
 
 
